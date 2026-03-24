@@ -77,4 +77,4 @@ streamlit run app.py
 
 ## 🙌 Author
 
-Built by [Your Name] · Data Science student at Besant Technologies, Bangalore
+Built by Balamurugan· Data Science student at Besant Technologies, Bangalore
